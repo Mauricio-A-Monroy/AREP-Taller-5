@@ -105,9 +105,11 @@ https://www.youtube.com/watch?v=aNLoXSf5eNw
 
 
 ### 4. Eliminación de una Propiedad
-![Eliminación de propiedad](ruta/a/imagen4.png)
+![image](https://github.com/user-attachments/assets/993f7d0e-b198-4bec-8161-c8e7e1157f22)
+![image](https://github.com/user-attachments/assets/d2ca5cc3-6a16-4e2c-ac93-95e6f41eed5a)
+![image](https://github.com/user-attachments/assets/60543143-0189-4b68-b3ec-4d1203fd5e56)
 
----
 
-Este documento proporciona una guía detallada para el despliegue y uso del sistema. Puedes modificarlo según sea necesario.
+### 5. Pruebas
+![image](https://github.com/user-attachments/assets/c4c37955-62dc-4dc9-95f6-7d0cd6c4eedd)
 
